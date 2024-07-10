@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 1899f3c5390967f4386cb6579f6a7d9e
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Love Like This
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 364efd2f24ae9b0478380692c8680cfc, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
